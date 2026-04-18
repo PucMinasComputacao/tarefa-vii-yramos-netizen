@@ -10,7 +10,7 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Print do console do navegador
 
-## ![Desktop](../tarefa-vii-yramos-netizen/Imagem%20do%20Console.png)
+## ![Desktop](/Imagem%20do%20Console.png)
 
 
 
