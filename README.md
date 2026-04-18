@@ -5,12 +5,12 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Yudy Samuell Magalhães Ramos
+- Matricula: 906627
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
+## ![Desktop](../tarefa-vii-yramos-netizen/Imagem%20do%20Console.png)
 
 
 
